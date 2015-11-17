@@ -1,0 +1,23 @@
+/* 
+    Document   : default
+    Created on : 2014-7-19, 16:17:48
+    Author     : Administrator
+    Description:
+        Purpose of the stylesheet follows.
+*/
+body {
+    background: silver;
+}
+#header{
+    padding: 20px;
+    background: gold;
+   
+}
+#content{
+    background: #fff;
+    padding:20px;
+}
+#footer{
+    background: green;
+    padding:20px;
+}
